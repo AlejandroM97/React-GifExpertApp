@@ -14,6 +14,7 @@ export const GifGrid = ({ category }) => {
     return (
         <>
             <h3>{category}</h3>
+            <h1>Test</h1>
             {
 
 
